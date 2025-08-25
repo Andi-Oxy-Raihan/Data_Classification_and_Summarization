@@ -84,12 +84,3 @@ IBM Granite Model mendukung analisis dengan:
 - **Summarization:** memberikan ringkasan singkat faktor penyebab risiko.  
 
 ⚡ Kelebihan: proses cepat, ringkas, dan mampu menemukan pola kombinasi faktor yang sulit diidentifikasi secara manual.  
-
----
-
-✨ Dengan dokumentasi ini, proyek memenuhi kriteria:  
-- **Analytical Result** ✅  
-- **Insight & Findings** ✅  
-- **Recommendations** ✅  
-- **AI Support Explanation** ✅  
-
